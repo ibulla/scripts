@@ -14,7 +14,7 @@ In this repository, you will find a collection of scripts that I, as an artist, 
     \|__|\|_______|\|_______|\|_______|\|_______|\|__|\|__|
 
 ```
-### idea: [RGB HEX CUBE](/ideas/rgb-cube/rgb-hex-cube.php)
+### idea: [RGB HEX CUBE](ideas/rgb-cube/rgb-hex-cube.php)
 
 >"RGB CUBE" is a testament to the fusion of art, mathematics, and interactivity.
 
