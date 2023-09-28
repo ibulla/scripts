@@ -22,6 +22,12 @@ In this repository, you will find a collection of scripts that I, as an artist, 
 ![RGB CUBE](https://ibulla.com/i/assets/uploads/iBulla-works-23-09-2023_fIlK.jpg)
 ---
 
+### idea: [AXI DRAW](https://github.com/ibulla/axi-1milliondrawings)
+
+>"AXI DRAW" is a script to interact with 1milliondrawing and a axi drawing machine.
+
+![RGB CUBE](https://github.com/ibulla/axi-1milliondrawings/raw/main/setup.jpg)
+---
 
 
 ## Contributions and Feedback
