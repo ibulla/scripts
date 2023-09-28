@@ -14,9 +14,11 @@ In this repository, you will find a collection of scripts that I, as an artist, 
     \|__|\|_______|\|_______|\|_______|\|_______|\|__|\|__|
 
 ```
-### Script 1: [Script Name]
+### idea: [RGB HEX CUBE](/ideas/rgb-hex-cube.php)
 
-_Description of what this script does and its artistic purpose._
+>"RGB CUBE" is a testament to the fusion of art, mathematics, and interactivity.
+
+![RGB CUBE](https://ibulla.com/i/assets/uploads/iBulla-works-23-09-2023_fIlK.jpg)
 
 
 ## Contributions and Feedback
@@ -25,4 +27,4 @@ I welcome contributions and feedback from the community. If you have any ideas, 
 
 ## License
 
-This project is licensed under the [License Name] - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT - see the [LICENSE](LICENSE) file for details.
